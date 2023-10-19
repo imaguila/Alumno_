@@ -7,6 +7,10 @@
     - [ ] 1: Funcionamiento incorrecto en todos los casos de prueba
     - [ ] 0: No se ha implementado el programa
 
+- Compañeros de práctica:
+    - Fulanito
+    - Menganito
+
 - [ ] Componente no presencial acabada
 
     - [ ] 3: Funcionamiento correcto
